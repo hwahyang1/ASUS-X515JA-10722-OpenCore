@@ -4,13 +4,13 @@
 
 ## Hardware Specs
 
-| Components     | Model                     |
-| -------------- | ------------------------- |
-| CPU            | Intel Core i7-1065G7      |
-| RAM            | 12GB@3200MHz DDR4         |
-| iGPU           | Intel(R) Iris Graphics G1 |
-| WiFi&Bluetooth | AW-CB515NF                |
-| Storage        | NVME 256GB                |
+| Components       | Model                     |
+| ---------------- | ------------------------- |
+| CPU              | Intel Core i7-1065G7      |
+| RAM              | 12GB@3200MHz DDR4         |
+| iGPU             | Intel(R) Iris Graphics G1 |
+| WiFi & Bluetooth | AW-CB515NF                |
+| Storage          | NVME 256GB                |
 
 ### Features
 
@@ -20,17 +20,21 @@
 - [x] TouchPad
 - [x] Keyboard Fn Keys
 - [x] Speakers
-- [x] Audio Combo Jack
-- [x] Battery percentage (inaccurate. maybe?)
+- [x] Audio Combo Jack (Use [ComboJack](https://github.com/hackintosh-stuff/ComboJack) if needed.)
+- [x] Apple Services
+- [-] Battery percentage (inaccurate)
+- [ ] Webcam
+- [ ] Sleep Mode
 - [ ] WiFi (use Wired USB LAN Card)
 - [ ] Bluetooth
-- [ ] Apple Services (need to fix WiFi)
 - [ ] HDMI
 - [ ] Keyboard Backlight
 
 ### Not Tested
 
-- Webcam
 - DRM
-- Sleep Mode
 - Airdrop (need to fix WiFi&Bluetooth)
+
+### Post-Install
+
+1. Use [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/) to use Ventura or higher. (macOS 14+)
