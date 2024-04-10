@@ -22,7 +22,7 @@
 - [x] Speakers
 - [x] Audio Combo Jack (Use [ComboJack](https://github.com/hackintosh-stuff/ComboJack) if needed.)
 - [x] Apple Services
-- [-] Battery percentage (inaccurate)
+- [x] Battery percentage (inaccurate)
 - [ ] Webcam
 - [ ] Sleep Mode
 - [ ] WiFi (use Wired USB LAN Card)
@@ -32,9 +32,5 @@
 
 ### Not Tested
 
-- DRM
+- DRM (Apple Music is working)
 - Airdrop (need to fix WiFi&Bluetooth)
-
-### Post-Install
-
-1. Use [OCLP](https://dortania.github.io/OpenCore-Legacy-Patcher/) to use Ventura or higher. (macOS 14+)

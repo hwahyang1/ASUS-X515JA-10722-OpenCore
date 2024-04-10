@@ -1447,7 +1447,7 @@
 				<key>SystemAudioVolume</key>
 				<data>UA==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 igfxfw=2 -noDC9 dc6config=0</string>
+				<string>keepsyms=1 igfxfw=2 -noDC9 dc6config=0 shikigva=96 unfairgva=4 shiki-id=Mac-7BA5B2D9E42DDD94</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
