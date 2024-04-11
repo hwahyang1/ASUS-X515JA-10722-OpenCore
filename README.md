@@ -9,7 +9,7 @@
 | CPU              | Intel Core i7-1065G7      |
 | RAM              | 12GB@3200MHz DDR4         |
 | iGPU             | Intel(R) Iris Graphics G1 |
-| WiFi & Bluetooth | AW-CB515NF                |
+| WiFi & Bluetooth | ~~AW-CB515NF~~ BCM94360NG |
 | Storage          | NVME 256GB                |
 
 ### Features
@@ -22,15 +22,12 @@
 - [x] Speakers
 - [x] Audio Combo Jack (Use [ComboJack](https://github.com/hackintosh-stuff/ComboJack) if needed.)
 - [x] Apple Services
+- [x] WiFi
+- [x] Bluetooth
+- [x] Airdrop
 - [x] Battery percentage (inaccurate)
 - [ ] Webcam
 - [ ] Sleep Mode
-- [ ] WiFi (use Wired USB LAN Card)
-- [ ] Bluetooth
 - [ ] HDMI
 - [ ] Keyboard Backlight
-
-### Not Tested
-
-- DRM (Apple Music is working)
-- Airdrop (need to fix WiFi&Bluetooth)
+- [ ] DRM (Apple Music working, however)
