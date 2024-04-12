@@ -22,7 +22,7 @@
 - [x] Speakers
 - [x] Audio Combo Jack (Use [ComboJack](https://github.com/hackintosh-stuff/ComboJack) if needed.)
 - [x] Apple Services
-- [x] WiFi
+- [x] WiFi (use [OCLP](https://github.com/dortania/OpenCore-Legacy-Patcher/releases))
 - [x] Bluetooth
 - [x] Airdrop
 - [x] Battery percentage (inaccurate)
